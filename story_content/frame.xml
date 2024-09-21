@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1323,6 +1323,18 @@
           <links>
             <slidelink slideid="_player.6WSPBxnHEDe.6km6QfxhMeq" displaytext="KREATOR" expand="false" type="slide" />
             <slidelink slideid="_player.6WSPBxnHEDe.6qfhjliVEYe" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5tK4OKSovsN" displaytext="Section 09" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5tK4OKSovsN.6DC3tPazb90" displaytext="PETUNJUK" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5f2tLK0GZyv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5lua3kpIOUh" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5rrkV8ocwCm" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5o5jg9iAy2Q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.6L1ZKGw8roJ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5lQM0Jqpk2z" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tK4OKSovsN.5kb1aPn9Ywy" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
